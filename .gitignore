@@ -1,7 +1,5 @@
 *.pyc
 
-*.db
-
 .installed.cfg
 bin
 develop-eggs
